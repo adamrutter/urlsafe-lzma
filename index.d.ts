@@ -10,8 +10,8 @@
 export declare function compress(
   string: string,
   options?: {
-    mode: number;
-    enableEndMark: boolean;
+    mode?: number;
+    enableEndMark?: boolean;
   }
 ): string;
 
@@ -27,8 +27,8 @@ export declare function compress(
 export declare function compressUrlSafe(
   string: string,
   options?: {
-    mode: number;
-    enableEndMark: boolean;
+    mode?: number;
+    enableEndMark?: boolean;
   }
 ): string;
 
