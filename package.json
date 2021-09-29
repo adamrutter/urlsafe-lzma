@@ -1,6 +1,6 @@
 {
   "name": "urlsafe-lzma",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "URL-safe LZMA compression",
   "main": "index.mjs",
   "keywords": [
@@ -12,6 +12,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/adamrutter/lzma-urlsafe"
+    "url": "https://github.com/adamrutter/urlsafe-lzma"
   }
 }
