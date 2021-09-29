@@ -1,6 +1,6 @@
 {
   "name": "urlsafe-lzma",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "URL-safe LZMA compression",
   "main": "index.mjs",
   "keywords": [
